@@ -16,5 +16,7 @@ NetRecon es una herramienta de ciberseguridad y diagnóstico de red desarrollada
 
 ## Instalación y Uso
 1. Clona este repositorio:
+## Vista Previa
+![Interfaz de NetScanner](captura.jpg)
    ```bash
    git clone [https://github.com/tu-usuario/netrecon-scanner.git](https://github.com/tu-usuario/netrecon-scanner.git)
