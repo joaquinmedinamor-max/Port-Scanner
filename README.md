@@ -1,4 +1,4 @@
-# NetRecon - Escáner de Puertos y Red
+# NetScanner - Escáner de Puertos y Red
 
 NetRecon es una herramienta de ciberseguridad y diagnóstico de red desarrollada en Python. Permite auditar la disponibilidad de puertos específicos en direcciones IP o dominios mediante el uso de sockets TCP, facilitando la detección de vulnerabilidades o configuraciones de firewall.
 
